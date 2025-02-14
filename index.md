@@ -6,11 +6,11 @@
 			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
 
 			embeddedservice_bootstrap.init(
-				'00Dx00000008aLX',
-				'Agents_MIAW_CHANNEL',
-				'https://ciscosales.perf2r.pc-rnd.force.com/ESWAgentsMIAWCHANNEL1738821550861',
+				'00Dx00000008aKy',
+				'Agent_Astro',
+				'https://mycompany123.perf2r.pc-rnd.force.com/ESWAgentAstro1738127332202/s',
 				{
-					scrt2URL: 'https://syntheticciscosales5.perf2r.my.pc-rnd.salesforce-scrt.com'
+					scrt2URL: 'https://618org.perf2r.my.pc-rnd.salesforce-scrt.com'
 				}
 			);
 		} catch (err) {
@@ -18,7 +18,7 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://ciscosales.perf2r.pc-rnd.force.com/ESWAgentsMIAWCHANNEL1738821550861/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://mycompany123.perf2r.pc-rnd.force.com/ESWAgentAstro1738127332202/s/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
 </body>
 </html>
